@@ -286,6 +286,6 @@ This ordering prevents mis-classification — e.g., `"boat"` is never fuzzily ma
 
 ## 👨‍💻 Author
 
-**Harsh Kumar** — [GitHub](https://github.com/harsh07032004)
+**Khushi Gupta** — [GitHub](https://github.com/harsh07032004)
 
 *Built as a showcase project for placements — demonstrating full-stack development, NLP, and search engineering.*
